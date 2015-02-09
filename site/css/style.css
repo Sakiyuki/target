@@ -24,6 +24,7 @@ header {
 a:hover {
 	font-weight: bold;
 
+
 }
 h1 {
 	color: #b3050f;
@@ -37,9 +38,6 @@ h1 {
 
 }
 
-
-
-
 .button  {
 	height: 65px;
 	width: 235px;
@@ -48,14 +46,24 @@ h1 {
 	float: right;
 	margin-top: 5px;
 	color: white;
+	text-decoration: none;	
+
+}
+ul {
+	list-style: none;
+}	  
+ul a {
 	text-decoration: none;
-	
-	
+} 
+
+.products {
+	position: relative;
+}
+.equipment {
 
 
+}
 
-
-}	          
 		              
 		         
 
